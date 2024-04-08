@@ -19,8 +19,8 @@ Specifically, the Business Owner W. Avy, wants us to analysis the temperature da
 ## Results
 
 The key differences in weather between June and December are as follows; 
-![D1](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/main/D1.PNG)
-![D2](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/main/D2.PNG)
+![D1](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/master/D1.PNG)
+![D2](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/master/D2.PNG)
 
 -1. The temperature is in farenheight, and it is only slightly colder in December than in June.
 
@@ -38,10 +38,10 @@ The two recommendations for further analysis are as follows;
 
 1-The temperature alone is not a good indication to conclude if there is going to be persipitation. Perhaps looking into the percipitation rates in addition to the temperature would be more beneficial data to help decide. 
 
-![D3](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/main/D3.PNG)
+![D3](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/master/D3.PNG)
 
 After, further review it appears that 95% of the data on percipitation indicates "Light rainfall." Light rainfall is considered less than 0.10 inches of rain per hour. Moderate rainfall measures 0.10 to 0.30 inches of rain per hour. Heavy rainfall is more than 0.30 inches of rain per hour.Therfore, there is only a 25% of moderate rainfall. 
 
 2-Sorting all the persipitation data over the years in a scatter graph to determine the best month open the business is more valuable than just looking at two months to decide. 
-![D4](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/main/D4.PNG)
+![D4](https://github.com/735713038455163/Mod-9---Surf-s-Up-Challenge/blob/master/D4.PNG)
 
